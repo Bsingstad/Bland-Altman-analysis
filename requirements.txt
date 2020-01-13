@@ -1,6 +1,5 @@
 absl-py==0.7.1
 alabaster==0.7.12
-anaconda-client==1.7.2
 anaconda-navigator==1.9.7
 anaconda-project==0.8.2
 apio==0.4.1
