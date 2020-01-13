@@ -280,7 +280,7 @@ wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.48.0
 websockets==7.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wfdb==2.2.1
 wget==3.2
 widgetsnbextension==3.5.1
